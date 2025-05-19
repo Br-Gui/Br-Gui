@@ -14,8 +14,8 @@
   <table>
     <tr>
       <td align="center">
-        <a href="" target="_blank">
-          <img src="" width="150px" alt="Tetris"/>
+        <a href="Br-Gui.github.io" target="_blank">
+          <img src="![Tetris_logo](https://github.com/user-attachments/assets/56977e25-3e8e-4f6b-9b8c-378e84ea76bd)" width="150px" alt="Tetris"/>
           <br />
           <b>Tetris</b>
         </a>
