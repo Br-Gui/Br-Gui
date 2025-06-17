@@ -39,7 +39,7 @@
 
 </div>
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br-Gui&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Linguagens Mais Usadas" height="170" />
 </div>
 
