@@ -31,6 +31,9 @@
   <br><br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Br-Gui&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br-Gui&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Linguagens Mais Usadas" height="170" />
+
 
 </div>
 
