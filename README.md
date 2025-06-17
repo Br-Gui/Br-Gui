@@ -15,7 +15,7 @@
   <h3 style="color:#00FF41;">
     🎮 Jogue Tetris aqui mesmo!
   </h3>
-
+  
   <a href="https://Br-Gui.github.io/tetris" target="_blank" style="
     display: inline-block;
     padding: 12px 24px;
@@ -23,17 +23,15 @@
     font-family: 'Press Start 2P', cursive;
     font-size: 14px;
     color: #00FF41;
-    background-color: black;
+    background-color: red;
     border: 2px solid #00FF41;
     border-radius: 8px;
     text-decoration: none;
     transition: background-color 0.3s, color 0.3s;
   " onmouseover="this.style.backgroundColor='#00FF41'; this.style.color='black';"
      onmouseout="this.style.backgroundColor='black'; this.style.color='#00FF41';">
-    Jogar Tetris
+[![Jogar Tetris](https://img.shields.io/badge/Jogar_Tetris-black?style=for-the-badge)](https://Br-Gui.github.io/tetris)
   </a>
-
-  <br><br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
 
