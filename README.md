@@ -40,8 +40,8 @@
 </div>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Br-Gui&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br-Gui&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Linguagens Mais Usadas" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Br-Gui&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Estatísticas do GitHub" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br-Gui&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Linguagens Mais Usadas" height="165" />
 </div>
 
 </body>
