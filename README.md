@@ -6,17 +6,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=600&height=60&lines=SEJA+BEM-VINDO;OBRIGADO+POR+VISITAR;APROVEITE!" alt="Texto digitado" />
   </a>
 
-  <br><br>
-
-  <img src="https://komarev.com/ghpvc/?username=Br-Gui&style=for-the-badge&color=00FF41" alt="Visualizações do Perfil" />
-
-  <br><br>
-
   <h3 style="color:#00FF41;">
     🎮 Jogue Tetris aqui mesmo!
   </h3>
   
-  <a href="https://Br-Gui.github.io/tetris" target="_blank" style="
+  <a href="https://br-gui-github-io.vercel.app/" target="_blank" style="
     display: inline-block;
     padding: 12px 24px;
     margin-top: 10px;
