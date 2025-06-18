@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Br-Gui&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="Estatísticas do GitHub" height="168.25" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Br-Gui&theme=chartreuse-dark&hide_border=true" alt="Estatísticas do GitHub" height="168.25" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Br-Gui&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Linguagens Mais Usadas" height="168.25" />
 </div>
 
