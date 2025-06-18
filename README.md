@@ -24,7 +24,7 @@
     transition: background-color 0.3s, color 0.3s;
   " onmouseover="this.style.backgroundColor='#00FF41'; this.style.color='black';"
      onmouseout="this.style.backgroundColor='black'; this.style.color='#00FF41';">
-[![Jogar Tetris](https://img.shields.io/badge/Jogar_Tetris-black?style=for-the-badge)](https://Br-Gui.github.io/tetris)
+[![Jogar Tetris](https://img.shields.io/badge/Jogar_Tetris-black?style=for-the-badge)](https://br-gui-github-io.vercel.app/)
   </a>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
