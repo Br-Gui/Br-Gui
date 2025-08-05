@@ -7,9 +7,6 @@
     
 [![Jogar Tetris](https://img.shields.io/badge/Jogar_Tetris-555555?style=for-the-badge&logo=github&logoColor=white)](https://br-gui-github-io.vercel.app/)
 
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
-
 </div>
 
 <div align="center">
@@ -20,5 +17,11 @@
 <div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" />
 
 </div>
